@@ -1,0 +1,22 @@
+.staff_pick_heading {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    color: #242424;
+    font-weight: 700;
+    line-height: 20px;
+  }
+  
+  .staff_pick_name {
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 8px;
+  }
+  
+  .full_list {
+    font-size: 13px;
+    color: #1a8917;
+    text-decoration: none;
+    margin-top: 8px;
+  }
+  

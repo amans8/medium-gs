@@ -1,0 +1,75 @@
+{
+    "blogs": [
+      {
+        "uri": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "name": "Kevin James",
+        "title": "Game Dev Diaries: The Hidden World of Audio",
+        "description": "Before we get into it, this was a blog post I wrote over at Bungie.net when I was working as a Destiny 2 CM. For some reason, as of two weeks ago, this has been removed from the website. I’m proud of this piece and what the team had to…",
+        "tag": "AI",
+        "slug": "game-dev-diaries-the-hidden-world-of-audio"
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Jacob Jones",
+        "title": "7 Apps & Websites I use every day as a UX/UI designer",
+        "description": "We can all agree that Figma has changed how we work in UX/UI design, making everything simpler and all in one place. However, even",
+        "tag": "Programming",
+        "slug": "7-apps-websites-i-use-every-day-as-a-ux-ui-designer"
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Albert Flores",
+        "title": "Bye Bye, Spotify",
+        "description": "And see ya later, all you subscription services in my little empire — The day has been coming for a while now. One week after eliminating the last two social media platforms left standing in my world — Facebook",
+        "tag": "Technology",
+        "slug": "bye-bye-spotify"
+      }
+    ],
+    "staffPicks": [
+      {
+        "uri": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "name": "Kevin James",
+        "msg": "Hi Rachel, What's up",
+        "tagLine": "Trying to Innovate? Put down your hammer."
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Jacob Jones",
+        "msg": "Good Morning!",
+        "tagLine": "Sandra de O'Conner"
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Albert Flores",
+        "msg": "Coffee?",
+        "tagLine": "Talking to You"
+      }
+    ],
+    "recommendedTopics": [
+      "Programming",
+      "Datascience",
+      "Technology",
+      "Self Improvement",
+      "AI",
+      "Writting",
+      "Sample"
+    ],
+    "whoToFollow": [
+      {
+        "uri": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+        "name": "Kevin James",
+        "about": "Heyy I'm Kevin James, nice to meet you, I'm from so and so country and willing to be there also"
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Jacob Jones",
+        "about": "Heyy I'm Jacob, nice to meet you"
+      },
+      {
+        "uri": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+        "name": "Albert Flores",
+        "about": "Heyy I'm Albert Flores, nice to meet you"
+      }
+    ]
+  }
+  
